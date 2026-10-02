@@ -1,5 +1,5 @@
 # Traccia A - Press kit di un videogioco.
 
-### Sito di un festival musicale di fantasia, con
-### enominazione, sede e artisti inventati. Pagine suggerite: presentazione e date,
-### line-up per giornata, biglietteria, informazioni logistiche, regolamento.
+### Sito ufficiale di lancio di un videogioco
+### ideato dallo studente. Pagine suggerite: presentazione del gioco, schede dei
+### personaggi, requisiti di sistema, preordine, domande frequenti.
