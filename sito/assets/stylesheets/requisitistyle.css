@@ -50,35 +50,24 @@ main{
 }
 
 .divsezione1{
-    background-color: rgba(0, 255, 255, 0.8);
-    margin-left: 5%;
-    margin-right: 70%;
+    background-color: rgba(211, 211, 211, 0.8);
+    margin-left: 22%;
     position:fixed;
     padding-left:20px;
     padding-right: 20px;
     border-radius: 20px;
+    padding-bottom: 125px;
+     text-align: center;
 }
 
 .divsezione2{
-    background-color: rgba(255, 165, 0, 0.8);
-    margin-left: 35%;
-    margin-right: 35%;
+    background-color: rgba(211, 211, 211, 0.8);
+    margin-left: 50%;
     position:fixed;
     padding-left:20px;
     padding-right: 20px;
     border-radius: 20px;
-    padding-bottom: 90px;
-}
-
-.divsezione3{
-    background-color: rgba(255, 255, 255, 0.8);
-    margin-left: 70%;
-    margin-right: 5%;
-    position:fixed;
-    padding-left:20px;
-    padding-right: 20px;
-    border-radius: 20px;
-    padding-bottom: 110px;
+    text-align: center;
 }
 
 .info{
@@ -87,7 +76,3 @@ main{
     text-align: center;
     margin-top: auto;
 }
-
-
-
-
